@@ -1,0 +1,16 @@
+.chooseColor {
+    font-family: Hack;
+}
+
+#text {
+    margin-top: 10px;
+    font-family: Ninut;
+    font-size: 50px;
+    padding: 100px;
+    background-color: #fff;
+}
+
+#text > span {
+    font-family: Hack;
+    font-style: italic;
+}
